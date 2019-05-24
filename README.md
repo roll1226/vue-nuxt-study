@@ -55,7 +55,7 @@
   $ npm install -g @vue/cli
   ```
 
-# Windows版
+### Windows版
   - [インストーラーをダンロード](https://nodejs.org/en/download/)
   ```
   // 入っているか確認
