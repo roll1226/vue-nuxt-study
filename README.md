@@ -1,4 +1,4 @@
-### Vue.js研究会(第一回目)
+# Vue.js研究会(第一回目)
 
 ## Vue.jsとは
   - JavaScriptフレームワークの一つ
@@ -15,16 +15,16 @@
   - SPA、PWAの実装が楽
 
 ## Babelとwebpackについて
-# Babelとは
+### Babelとは
   - JavaScriptの新しい書き方から古い書き方に変換してくれる
     - IEのために(IEはES5しか使えない)
 
-# webpack
+### webpack
   - 複数のファイルを1つにまとめてくれる
     - エンドユーザー側の表示時間を短縮
 
 ## vue-cliを入れてみよう
-# Mac版
+### Mac版
   - [Homebrewをインストール](https://brew.sh/index_ja)
   ```
   // nodebrewのインストール
